@@ -10,7 +10,7 @@ export default function Boilerplate(): JSX.Element {
         padding: '1rem',
       }}
     >
-      Boilerplate component
+      Boilerplate component Reloaded
     </h1>
   )
 }
